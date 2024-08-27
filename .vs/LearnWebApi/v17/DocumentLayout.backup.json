@@ -1,0 +1,435 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\ODP\\OJT\\Practice\\Day6 (Final BE)\\DoniSahertiyan_FinalProject\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A096F958-CF27-49B4-BC48-421A1ED8E46B}|Core\\Core.csproj|d:\\odp\\ojt\\practice\\day6 (final be)\\donisahertiyan_finalproject\\core\\features\\commands\\updatetodoes\\updatetodocommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A096F958-CF27-49B4-BC48-421A1ED8E46B}|Core\\Core.csproj|solutionrelative:core\\features\\commands\\updatetodoes\\updatetodocommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A096F958-CF27-49B4-BC48-421A1ED8E46B}|Core\\Core.csproj|d:\\odp\\ojt\\practice\\day6 (final be)\\donisahertiyan_finalproject\\core\\features\\commands\\deletetodoes\\deletetodocommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A096F958-CF27-49B4-BC48-421A1ED8E46B}|Core\\Core.csproj|solutionrelative:core\\features\\commands\\deletetodoes\\deletetodocommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A096F958-CF27-49B4-BC48-421A1ED8E46B}|Core\\Core.csproj|d:\\odp\\ojt\\practice\\day6 (final be)\\donisahertiyan_finalproject\\core\\features\\commands\\deletetodoes\\deletetodohandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A096F958-CF27-49B4-BC48-421A1ED8E46B}|Core\\Core.csproj|solutionrelative:core\\features\\commands\\deletetodoes\\deletetodohandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A096F958-CF27-49B4-BC48-421A1ED8E46B}|Core\\Core.csproj|d:\\odp\\ojt\\practice\\day6 (final be)\\donisahertiyan_finalproject\\core\\features\\commands\\deletetodoes\\deletetodoresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A096F958-CF27-49B4-BC48-421A1ED8E46B}|Core\\Core.csproj|solutionrelative:core\\features\\commands\\deletetodoes\\deletetodoresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A096F958-CF27-49B4-BC48-421A1ED8E46B}|Core\\Core.csproj|d:\\odp\\ojt\\practice\\day6 (final be)\\donisahertiyan_finalproject\\core\\features\\commands\\updatetodoes\\updatetodohandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A096F958-CF27-49B4-BC48-421A1ED8E46B}|Core\\Core.csproj|solutionrelative:core\\features\\commands\\updatetodoes\\updatetodohandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A096F958-CF27-49B4-BC48-421A1ED8E46B}|Core\\Core.csproj|d:\\odp\\ojt\\practice\\day6 (final be)\\donisahertiyan_finalproject\\core\\features\\commands\\createtodoes\\createtodocommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A096F958-CF27-49B4-BC48-421A1ED8E46B}|Core\\Core.csproj|solutionrelative:core\\features\\commands\\createtodoes\\createtodocommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A096F958-CF27-49B4-BC48-421A1ED8E46B}|Core\\Core.csproj|d:\\odp\\ojt\\practice\\day6 (final be)\\donisahertiyan_finalproject\\core\\features\\commands\\createtodoes\\createtodohandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A096F958-CF27-49B4-BC48-421A1ED8E46B}|Core\\Core.csproj|solutionrelative:core\\features\\commands\\createtodoes\\createtodohandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A096F958-CF27-49B4-BC48-421A1ED8E46B}|Core\\Core.csproj|d:\\odp\\ojt\\practice\\day6 (final be)\\donisahertiyan_finalproject\\core\\features\\commands\\createtodoes\\createtodoresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A096F958-CF27-49B4-BC48-421A1ED8E46B}|Core\\Core.csproj|solutionrelative:core\\features\\commands\\createtodoes\\createtodoresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{328AC1D1-D9DB-42CE-8C12-4166098FF700}|Persistence\\Persistence.csproj|d:\\odp\\ojt\\practice\\day6 (final be)\\donisahertiyan_finalproject\\persistence\\repositories\\itodorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{328AC1D1-D9DB-42CE-8C12-4166098FF700}|Persistence\\Persistence.csproj|solutionrelative:persistence\\repositories\\itodorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{328AC1D1-D9DB-42CE-8C12-4166098FF700}|Persistence\\Persistence.csproj|d:\\odp\\ojt\\practice\\day6 (final be)\\donisahertiyan_finalproject\\persistence\\repositories\\todorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{328AC1D1-D9DB-42CE-8C12-4166098FF700}|Persistence\\Persistence.csproj|solutionrelative:persistence\\repositories\\todorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{328AC1D1-D9DB-42CE-8C12-4166098FF700}|Persistence\\Persistence.csproj|d:\\odp\\ojt\\practice\\day6 (final be)\\donisahertiyan_finalproject\\persistence\\repositories\\igenericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{328AC1D1-D9DB-42CE-8C12-4166098FF700}|Persistence\\Persistence.csproj|solutionrelative:persistence\\repositories\\igenericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{328AC1D1-D9DB-42CE-8C12-4166098FF700}|Persistence\\Persistence.csproj|d:\\odp\\ojt\\practice\\day6 (final be)\\donisahertiyan_finalproject\\persistence\\repositories\\itododetailrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{328AC1D1-D9DB-42CE-8C12-4166098FF700}|Persistence\\Persistence.csproj|solutionrelative:persistence\\repositories\\itododetailrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F68A827-FF72-4024-BB96-D68535C2631F}|Application\\Application.csproj|d:\\odp\\ojt\\practice\\day6 (final be)\\donisahertiyan_finalproject\\application\\controllers\\tablecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F68A827-FF72-4024-BB96-D68535C2631F}|Application\\Application.csproj|solutionrelative:application\\controllers\\tablecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A096F958-CF27-49B4-BC48-421A1ED8E46B}|Core\\Core.csproj|d:\\odp\\ojt\\practice\\day6 (final be)\\donisahertiyan_finalproject\\core\\features\\queries\\gettodoes\\gettodoeshandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A096F958-CF27-49B4-BC48-421A1ED8E46B}|Core\\Core.csproj|solutionrelative:core\\features\\queries\\gettodoes\\gettodoeshandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A096F958-CF27-49B4-BC48-421A1ED8E46B}|Core\\Core.csproj|d:\\odp\\ojt\\practice\\day6 (final be)\\donisahertiyan_finalproject\\core\\features\\queries\\gettodoes\\gettodoesresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A096F958-CF27-49B4-BC48-421A1ED8E46B}|Core\\Core.csproj|solutionrelative:core\\features\\queries\\gettodoes\\gettodoesresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{328AC1D1-D9DB-42CE-8C12-4166098FF700}|Persistence\\Persistence.csproj|d:\\odp\\ojt\\practice\\day6 (final be)\\donisahertiyan_finalproject\\persistence\\repositories\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{328AC1D1-D9DB-42CE-8C12-4166098FF700}|Persistence\\Persistence.csproj|solutionrelative:persistence\\repositories\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{328AC1D1-D9DB-42CE-8C12-4166098FF700}|Persistence\\Persistence.csproj|d:\\odp\\ojt\\practice\\day6 (final be)\\donisahertiyan_finalproject\\persistence\\repositories\\tododetailrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{328AC1D1-D9DB-42CE-8C12-4166098FF700}|Persistence\\Persistence.csproj|solutionrelative:persistence\\repositories\\tododetailrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{328AC1D1-D9DB-42CE-8C12-4166098FF700}|Persistence\\Persistence.csproj|d:\\odp\\ojt\\practice\\day6 (final be)\\donisahertiyan_finalproject\\persistence\\models\\tododetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{328AC1D1-D9DB-42CE-8C12-4166098FF700}|Persistence\\Persistence.csproj|solutionrelative:persistence\\models\\tododetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{328AC1D1-D9DB-42CE-8C12-4166098FF700}|Persistence\\Persistence.csproj|d:\\odp\\ojt\\practice\\day6 (final be)\\donisahertiyan_finalproject\\persistence\\models\\todo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{328AC1D1-D9DB-42CE-8C12-4166098FF700}|Persistence\\Persistence.csproj|solutionrelative:persistence\\models\\todo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A096F958-CF27-49B4-BC48-421A1ED8E46B}|Core\\Core.csproj|d:\\odp\\ojt\\practice\\day6 (final be)\\donisahertiyan_finalproject\\core\\features\\queries\\gettodoes\\gettodoesquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A096F958-CF27-49B4-BC48-421A1ED8E46B}|Core\\Core.csproj|solutionrelative:core\\features\\queries\\gettodoes\\gettodoesquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{328AC1D1-D9DB-42CE-8C12-4166098FF700}|Persistence\\Persistence.csproj|d:\\odp\\ojt\\practice\\day6 (final be)\\donisahertiyan_finalproject\\persistence\\databasecontext\\tablecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{328AC1D1-D9DB-42CE-8C12-4166098FF700}|Persistence\\Persistence.csproj|solutionrelative:persistence\\databasecontext\\tablecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{328AC1D1-D9DB-42CE-8C12-4166098FF700}|Persistence\\Persistence.csproj|d:\\odp\\ojt\\practice\\day6 (final be)\\donisahertiyan_finalproject\\persistence\\persistenceregistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{328AC1D1-D9DB-42CE-8C12-4166098FF700}|Persistence\\Persistence.csproj|solutionrelative:persistence\\persistenceregistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A096F958-CF27-49B4-BC48-421A1ED8E46B}|Core\\Core.csproj|d:\\odp\\ojt\\practice\\day6 (final be)\\donisahertiyan_finalproject\\core\\features\\commands\\updatetodoes\\updatetodoresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A096F958-CF27-49B4-BC48-421A1ED8E46B}|Core\\Core.csproj|solutionrelative:core\\features\\commands\\updatetodoes\\updatetodoresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A096F958-CF27-49B4-BC48-421A1ED8E46B}|Core\\Core.csproj|d:\\odp\\ojt\\practice\\day6 (final be)\\donisahertiyan_finalproject\\core\\applicationserviceregistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A096F958-CF27-49B4-BC48-421A1ED8E46B}|Core\\Core.csproj|solutionrelative:core\\applicationserviceregistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F68A827-FF72-4024-BB96-D68535C2631F}|Application\\Application.csproj|d:\\odp\\ojt\\practice\\day6 (final be)\\donisahertiyan_finalproject\\application\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F68A827-FF72-4024-BB96-D68535C2631F}|Application\\Application.csproj|solutionrelative:application\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DeleteTodoResponse.cs",
+              "DocumentMoniker": "D:\\ODP\\OJT\\Practice\\Day6 (Final BE)\\DoniSahertiyan_FinalProject\\Core\\Features\\Commands\\DeleteTodoes\\DeleteTodoResponse.cs",
+              "RelativeDocumentMoniker": "Core\\Features\\Commands\\DeleteTodoes\\DeleteTodoResponse.cs",
+              "ToolTip": "D:\\ODP\\OJT\\Practice\\Day6 (Final BE)\\DoniSahertiyan_FinalProject\\Core\\Features\\Commands\\DeleteTodoes\\DeleteTodoResponse.cs",
+              "RelativeToolTip": "Core\\Features\\Commands\\DeleteTodoes\\DeleteTodoResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-22T11:23:50.891Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CreateTodoCommand.cs",
+              "DocumentMoniker": "D:\\ODP\\OJT\\Practice\\Day6 (Final BE)\\DoniSahertiyan_FinalProject\\Core\\Features\\Commands\\CreateTodoes\\CreateTodoCommand.cs",
+              "RelativeDocumentMoniker": "Core\\Features\\Commands\\CreateTodoes\\CreateTodoCommand.cs",
+              "ToolTip": "D:\\ODP\\OJT\\Practice\\Day6 (Final BE)\\DoniSahertiyan_FinalProject\\Core\\Features\\Commands\\CreateTodoes\\CreateTodoCommand.cs",
+              "RelativeToolTip": "Core\\Features\\Commands\\CreateTodoes\\CreateTodoCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-22T10:59:54.533Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UpdateTodoCommand.cs",
+              "DocumentMoniker": "D:\\ODP\\OJT\\Practice\\Day6 (Final BE)\\DoniSahertiyan_FinalProject\\Core\\Features\\Commands\\UpdateTodoes\\UpdateTodoCommand.cs",
+              "RelativeDocumentMoniker": "Core\\Features\\Commands\\UpdateTodoes\\UpdateTodoCommand.cs",
+              "ToolTip": "D:\\ODP\\OJT\\Practice\\Day6 (Final BE)\\DoniSahertiyan_FinalProject\\Core\\Features\\Commands\\UpdateTodoes\\UpdateTodoCommand.cs",
+              "RelativeToolTip": "Core\\Features\\Commands\\UpdateTodoes\\UpdateTodoCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-27T10:54:49.025Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UpdateTodoHandler.cs",
+              "DocumentMoniker": "D:\\ODP\\OJT\\Practice\\Day6 (Final BE)\\DoniSahertiyan_FinalProject\\Core\\Features\\Commands\\UpdateTodoes\\UpdateTodoHandler.cs",
+              "RelativeDocumentMoniker": "Core\\Features\\Commands\\UpdateTodoes\\UpdateTodoHandler.cs",
+              "ToolTip": "D:\\ODP\\OJT\\Practice\\Day6 (Final BE)\\DoniSahertiyan_FinalProject\\Core\\Features\\Commands\\UpdateTodoes\\UpdateTodoHandler.cs",
+              "RelativeToolTip": "Core\\Features\\Commands\\UpdateTodoes\\UpdateTodoHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-27T10:54:28.07Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DeleteTodoHandler.cs",
+              "DocumentMoniker": "D:\\ODP\\OJT\\Practice\\Day6 (Final BE)\\DoniSahertiyan_FinalProject\\Core\\Features\\Commands\\DeleteTodoes\\DeleteTodoHandler.cs",
+              "RelativeDocumentMoniker": "Core\\Features\\Commands\\DeleteTodoes\\DeleteTodoHandler.cs",
+              "ToolTip": "D:\\ODP\\OJT\\Practice\\Day6 (Final BE)\\DoniSahertiyan_FinalProject\\Core\\Features\\Commands\\DeleteTodoes\\DeleteTodoHandler.cs",
+              "RelativeToolTip": "Core\\Features\\Commands\\DeleteTodoes\\DeleteTodoHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACcAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-22T11:23:29.722Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DeleteTodoCommand.cs",
+              "DocumentMoniker": "D:\\ODP\\OJT\\Practice\\Day6 (Final BE)\\DoniSahertiyan_FinalProject\\Core\\Features\\Commands\\DeleteTodoes\\DeleteTodoCommand.cs",
+              "RelativeDocumentMoniker": "Core\\Features\\Commands\\DeleteTodoes\\DeleteTodoCommand.cs",
+              "ToolTip": "D:\\ODP\\OJT\\Practice\\Day6 (Final BE)\\DoniSahertiyan_FinalProject\\Core\\Features\\Commands\\DeleteTodoes\\DeleteTodoCommand.cs",
+              "RelativeToolTip": "Core\\Features\\Commands\\DeleteTodoes\\DeleteTodoCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-22T11:23:14.053Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CreateTodoHandler.cs",
+              "DocumentMoniker": "D:\\ODP\\OJT\\Practice\\Day6 (Final BE)\\DoniSahertiyan_FinalProject\\Core\\Features\\Commands\\CreateTodoes\\CreateTodoHandler.cs",
+              "RelativeDocumentMoniker": "Core\\Features\\Commands\\CreateTodoes\\CreateTodoHandler.cs",
+              "ToolTip": "D:\\ODP\\OJT\\Practice\\Day6 (Final BE)\\DoniSahertiyan_FinalProject\\Core\\Features\\Commands\\CreateTodoes\\CreateTodoHandler.cs",
+              "RelativeToolTip": "Core\\Features\\Commands\\CreateTodoes\\CreateTodoHandler.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAADwvx0AAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-22T10:59:41.06Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CreateTodoResponse.cs",
+              "DocumentMoniker": "D:\\ODP\\OJT\\Practice\\Day6 (Final BE)\\DoniSahertiyan_FinalProject\\Core\\Features\\Commands\\CreateTodoes\\CreateTodoResponse.cs",
+              "RelativeDocumentMoniker": "Core\\Features\\Commands\\CreateTodoes\\CreateTodoResponse.cs",
+              "ToolTip": "D:\\ODP\\OJT\\Practice\\Day6 (Final BE)\\DoniSahertiyan_FinalProject\\Core\\Features\\Commands\\CreateTodoes\\CreateTodoResponse.cs",
+              "RelativeToolTip": "Core\\Features\\Commands\\CreateTodoes\\CreateTodoResponse.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAzwBQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-22T11:00:19.585Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "TodoRepository.cs",
+              "DocumentMoniker": "D:\\ODP\\OJT\\Practice\\Day6 (Final BE)\\DoniSahertiyan_FinalProject\\Persistence\\Repositories\\TodoRepository.cs",
+              "RelativeDocumentMoniker": "Persistence\\Repositories\\TodoRepository.cs",
+              "ToolTip": "D:\\ODP\\OJT\\Practice\\Day6 (Final BE)\\DoniSahertiyan_FinalProject\\Persistence\\Repositories\\TodoRepository.cs",
+              "RelativeToolTip": "Persistence\\Repositories\\TodoRepository.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAA/wDQAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-22T11:03:46.11Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ITodoRepository.cs",
+              "DocumentMoniker": "D:\\ODP\\OJT\\Practice\\Day6 (Final BE)\\DoniSahertiyan_FinalProject\\Persistence\\Repositories\\ITodoRepository.cs",
+              "RelativeDocumentMoniker": "Persistence\\Repositories\\ITodoRepository.cs",
+              "ToolTip": "D:\\ODP\\OJT\\Practice\\Day6 (Final BE)\\DoniSahertiyan_FinalProject\\Persistence\\Repositories\\ITodoRepository.cs",
+              "RelativeToolTip": "Persistence\\Repositories\\ITodoRepository.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAuwAwAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-22T11:03:17.487Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "IGenericRepository.cs",
+              "DocumentMoniker": "D:\\ODP\\OJT\\Practice\\Day6 (Final BE)\\DoniSahertiyan_FinalProject\\Persistence\\Repositories\\IGenericRepository.cs",
+              "RelativeDocumentMoniker": "Persistence\\Repositories\\IGenericRepository.cs",
+              "ToolTip": "D:\\ODP\\OJT\\Practice\\Day6 (Final BE)\\DoniSahertiyan_FinalProject\\Persistence\\Repositories\\IGenericRepository.cs",
+              "RelativeToolTip": "Persistence\\Repositories\\IGenericRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-27T11:03:03.91Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ITodoDetailRepository.cs",
+              "DocumentMoniker": "D:\\ODP\\OJT\\Practice\\Day6 (Final BE)\\DoniSahertiyan_FinalProject\\Persistence\\Repositories\\ITodoDetailRepository.cs",
+              "RelativeDocumentMoniker": "Persistence\\Repositories\\ITodoDetailRepository.cs",
+              "ToolTip": "D:\\ODP\\OJT\\Practice\\Day6 (Final BE)\\DoniSahertiyan_FinalProject\\Persistence\\Repositories\\ITodoDetailRepository.cs",
+              "RelativeToolTip": "Persistence\\Repositories\\ITodoDetailRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-27T10:41:54.66Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "TableController.cs",
+              "DocumentMoniker": "D:\\ODP\\OJT\\Practice\\Day6 (Final BE)\\DoniSahertiyan_FinalProject\\Application\\Controllers\\TableController.cs",
+              "RelativeDocumentMoniker": "Application\\Controllers\\TableController.cs",
+              "ToolTip": "D:\\ODP\\OJT\\Practice\\Day6 (Final BE)\\DoniSahertiyan_FinalProject\\Application\\Controllers\\TableController.cs",
+              "RelativeToolTip": "Application\\Controllers\\TableController.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAQwCIAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-22T11:02:54.954Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "GetTodoesHandler.cs",
+              "DocumentMoniker": "D:\\ODP\\OJT\\Practice\\Day6 (Final BE)\\DoniSahertiyan_FinalProject\\Core\\Features\\Queries\\GetTodoes\\GetTodoesHandler.cs",
+              "RelativeDocumentMoniker": "Core\\Features\\Queries\\GetTodoes\\GetTodoesHandler.cs",
+              "ToolTip": "D:\\ODP\\OJT\\Practice\\Day6 (Final BE)\\DoniSahertiyan_FinalProject\\Core\\Features\\Queries\\GetTodoes\\GetTodoesHandler.cs",
+              "RelativeToolTip": "Core\\Features\\Queries\\GetTodoes\\GetTodoesHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACYAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-22T11:09:28.571Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "GetTodoesResponse.cs",
+              "DocumentMoniker": "D:\\ODP\\OJT\\Practice\\Day6 (Final BE)\\DoniSahertiyan_FinalProject\\Core\\Features\\Queries\\GetTodoes\\GetTodoesResponse.cs",
+              "RelativeDocumentMoniker": "Core\\Features\\Queries\\GetTodoes\\GetTodoesResponse.cs",
+              "ToolTip": "D:\\ODP\\OJT\\Practice\\Day6 (Final BE)\\DoniSahertiyan_FinalProject\\Core\\Features\\Queries\\GetTodoes\\GetTodoesResponse.cs",
+              "RelativeToolTip": "Core\\Features\\Queries\\GetTodoes\\GetTodoesResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-22T11:11:20.246Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "TodoDetail.cs",
+              "DocumentMoniker": "D:\\ODP\\OJT\\Practice\\Day6 (Final BE)\\DoniSahertiyan_FinalProject\\Persistence\\Models\\TodoDetail.cs",
+              "RelativeDocumentMoniker": "Persistence\\Models\\TodoDetail.cs",
+              "ToolTip": "D:\\ODP\\OJT\\Practice\\Day6 (Final BE)\\DoniSahertiyan_FinalProject\\Persistence\\Models\\TodoDetail.cs",
+              "RelativeToolTip": "Persistence\\Models\\TodoDetail.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-27T10:41:35.94Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "GenericRepository.cs",
+              "DocumentMoniker": "D:\\ODP\\OJT\\Practice\\Day6 (Final BE)\\DoniSahertiyan_FinalProject\\Persistence\\Repositories\\GenericRepository.cs",
+              "RelativeDocumentMoniker": "Persistence\\Repositories\\GenericRepository.cs",
+              "ToolTip": "D:\\ODP\\OJT\\Practice\\Day6 (Final BE)\\DoniSahertiyan_FinalProject\\Persistence\\Repositories\\GenericRepository.cs",
+              "RelativeToolTip": "Persistence\\Repositories\\GenericRepository.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAswB8AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-27T11:01:53.357Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "TodoDetailRepository.cs",
+              "DocumentMoniker": "D:\\ODP\\OJT\\Practice\\Day6 (Final BE)\\DoniSahertiyan_FinalProject\\Persistence\\Repositories\\TodoDetailRepository.cs",
+              "RelativeDocumentMoniker": "Persistence\\Repositories\\TodoDetailRepository.cs",
+              "ToolTip": "D:\\ODP\\OJT\\Practice\\Day6 (Final BE)\\DoniSahertiyan_FinalProject\\Persistence\\Repositories\\TodoDetailRepository.cs",
+              "RelativeToolTip": "Persistence\\Repositories\\TodoDetailRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-27T10:42:02.556Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "GetTodoesQuery.cs",
+              "DocumentMoniker": "D:\\ODP\\OJT\\Practice\\Day6 (Final BE)\\DoniSahertiyan_FinalProject\\Core\\Features\\Queries\\GetTodoes\\GetTodoesQuery.cs",
+              "RelativeDocumentMoniker": "Core\\Features\\Queries\\GetTodoes\\GetTodoesQuery.cs",
+              "ToolTip": "D:\\ODP\\OJT\\Practice\\Day6 (Final BE)\\DoniSahertiyan_FinalProject\\Core\\Features\\Queries\\GetTodoes\\GetTodoesQuery.cs",
+              "RelativeToolTip": "Core\\Features\\Queries\\GetTodoes\\GetTodoesQuery.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-22T11:08:26.18Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "TableContext.cs",
+              "DocumentMoniker": "D:\\ODP\\OJT\\Practice\\Day6 (Final BE)\\DoniSahertiyan_FinalProject\\Persistence\\DatabaseContext\\TableContext.cs",
+              "RelativeDocumentMoniker": "Persistence\\DatabaseContext\\TableContext.cs",
+              "ToolTip": "D:\\ODP\\OJT\\Practice\\Day6 (Final BE)\\DoniSahertiyan_FinalProject\\Persistence\\DatabaseContext\\TableContext.cs",
+              "RelativeToolTip": "Persistence\\DatabaseContext\\TableContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-27T08:27:19.973Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Todo.cs",
+              "DocumentMoniker": "D:\\ODP\\OJT\\Practice\\Day6 (Final BE)\\DoniSahertiyan_FinalProject\\Persistence\\Models\\Todo.cs",
+              "RelativeDocumentMoniker": "Persistence\\Models\\Todo.cs",
+              "ToolTip": "D:\\ODP\\OJT\\Practice\\Day6 (Final BE)\\DoniSahertiyan_FinalProject\\Persistence\\Models\\Todo.cs",
+              "RelativeToolTip": "Persistence\\Models\\Todo.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAuwBAAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-27T08:25:56.616Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "PersistenceRegistration.cs",
+              "DocumentMoniker": "D:\\ODP\\OJT\\Practice\\Day6 (Final BE)\\DoniSahertiyan_FinalProject\\Persistence\\PersistenceRegistration.cs",
+              "RelativeDocumentMoniker": "Persistence\\PersistenceRegistration.cs",
+              "ToolTip": "D:\\ODP\\OJT\\Practice\\Day6 (Final BE)\\DoniSahertiyan_FinalProject\\Persistence\\PersistenceRegistration.cs",
+              "RelativeToolTip": "Persistence\\PersistenceRegistration.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAswB0AAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-22T10:10:38.356Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "UpdateTodoResponse.cs",
+              "DocumentMoniker": "D:\\ODP\\OJT\\Practice\\Day6 (Final BE)\\DoniSahertiyan_FinalProject\\Core\\Features\\Commands\\UpdateTodoes\\UpdateTodoResponse.cs",
+              "RelativeDocumentMoniker": "Core\\Features\\Commands\\UpdateTodoes\\UpdateTodoResponse.cs",
+              "ToolTip": "D:\\ODP\\OJT\\Practice\\Day6 (Final BE)\\DoniSahertiyan_FinalProject\\Core\\Features\\Commands\\UpdateTodoes\\UpdateTodoResponse.cs",
+              "RelativeToolTip": "Core\\Features\\Commands\\UpdateTodoes\\UpdateTodoResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-27T10:54:36.88Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "ApplicationServiceRegistration.cs",
+              "DocumentMoniker": "D:\\ODP\\OJT\\Practice\\Day6 (Final BE)\\DoniSahertiyan_FinalProject\\Core\\ApplicationServiceRegistration.cs",
+              "RelativeDocumentMoniker": "Core\\ApplicationServiceRegistration.cs",
+              "ToolTip": "D:\\ODP\\OJT\\Practice\\Day6 (Final BE)\\DoniSahertiyan_FinalProject\\Core\\ApplicationServiceRegistration.cs",
+              "RelativeToolTip": "Core\\ApplicationServiceRegistration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-27T08:31:28.448Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\ODP\\OJT\\Practice\\Day6 (Final BE)\\DoniSahertiyan_FinalProject\\Application\\Program.cs",
+              "RelativeDocumentMoniker": "Application\\Program.cs",
+              "ToolTip": "D:\\ODP\\OJT\\Practice\\Day6 (Final BE)\\DoniSahertiyan_FinalProject\\Application\\Program.cs",
+              "RelativeToolTip": "Application\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-27T08:35:54.641Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
